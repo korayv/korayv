@@ -1,6 +1,6 @@
 <h1 align="center"> ✈️ Hi, Koray on board!👋</h1>
 <h3 align=center> Dedicated project manager from Mersin</h3>
-<img src="/korayv/images/giphy.gif" alt="Sponge-bob task book">
+<img src="https://github.com/korayv/korayv/blob/main/images/giphy.gif?raw=true" alt="Sponge-bob task book">
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korayv&label=Profile%20views&color=0e75b6&style=flat" alt="korayv" /> </p>
