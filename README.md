@@ -37,7 +37,7 @@
     <img src="https://skillicons.dev/icons?i=java,dart,nodejs,javascript,typescript,mysql, postgres,dotnet,mongodb,c#,nextjs" /><br>
 </div>
 <br/> <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korayv&show_icons=true&locale=en&layout=compact" alt="korayv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=korayv&show_icons=true&locale=en&layout=compact" alt="korayv" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=korayv&show_icons=true&locale=en" alt="korayv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korayv&" alt="korayv" /></p>
