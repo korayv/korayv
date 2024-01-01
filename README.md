@@ -1,11 +1,13 @@
 <h1 align="center"> ✈️ Hi, Koray on board!👋</h1>
 <h3 align=center> Dedicated project manager from Mersin</h3>
-<img src="https://github.com/korayv/korayv/blob/main/images/giphy.gif?raw=true" alt="Sponge-bob task book">
+<div align="center"> 
+    <img src="https://github.com/korayv/korayv/blob/main/images/giphy.gif?raw=true" alt="Sponge-bob task book">
+</div>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=korayv&label=Profile%20views&color=0e75b6&style=flat" alt="korayv" /> </p>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=korayv&theme=dark_lover"><img src=https://github-profile-trophy.vercel.app/?username=korayv&theme=dark_lover" alt="korayv" /></a> </p>
-<p align="left"> <a href="https://twitter.com/kendinepreneur" target="blank"><img src="https://img.shields.io/twitter/follow/kendinepreneur?logo=twitter&style=for-the-badge" alt="kendinepreneur" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=korayv&label=Profile%20views&color=0e75b6&style=flat" alt="korayv" /> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=korayv&theme=dark_lover"><img src=https://github-profile-trophy.vercel.app/?username=korayv&theme=dark_lover" alt="korayv" /></a> </p>
+<p align="center"> <a href="https://twitter.com/kendinepreneur" target="blank"><img src="https://img.shields.io/twitter/follow/kendinepreneur?logo=twitter&style=for-the-badge" alt="kendinepreneur" /></a> </p>
 
 
 - 🔭 I’m currently working on **project management**
@@ -36,3 +38,6 @@
 </div>
 <br/> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korayv&show_icons=true&locale=en&layout=compact" alt="korayv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=korayv&show_icons=true&locale=en" alt="korayv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korayv&" alt="korayv" /></p>
