@@ -18,14 +18,14 @@
 
 <br/>
 <div align="center"> 
-  <a href="mailto:korayvatan01@gmail.com">
+  <a  target="_blank" href="mailto:korayvatan01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/korayv" target="_blank">
+  <a target="_blank" href="https://linkedin.com/in/korayv">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=bwhitelue" target="_blank" />
   </a>
   
-  <a href="https://korayv.github.io" target="_blank">
+  <a target="_blank" href="https://korayv.github.io">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> 
 </div>
