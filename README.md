@@ -26,13 +26,14 @@
 <h2 align="center">Languages and tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,git,jira,clickup,asana,figma" />
-    <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,typescript,mysql,sqlserver,mongodb,c#,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,php,tailwind,git,gcp,figma,webflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,typescript,mysql, postgres,dotnet,mongodb,c#,nextjs" /><br>
 </div>
 <br/> <br>
+<div align="center">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korayv&show_icons=true&locale=en&layout=compact" alt="korayv" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=korayv&show_icons=true&locale=en&layout=compact" alt="korayv" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korayv&show_icons=true&locale=en" alt="korayv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fkakorayvar&show_icons=true&locale=en" alt="korayv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korayv&" alt="korayv" /></p
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korayv&" alt="korayv" /></p>
+</div>
