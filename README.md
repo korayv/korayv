@@ -1,5 +1,5 @@
 <h1 align="center"> ✈️ Hi, Koray on board!👋</h1>
-<h3 align=center> Dedicated project manager from Mersin</h3>
+<h3 align=center> Dedicated product manager from Mersin</h3>
 <div align="center"> 
     <img src="https://github.com/korayv/korayv/blob/main/images/giphy.gif?raw=true" alt="Sponge-bob task book">
 </div>
