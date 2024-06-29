@@ -10,9 +10,9 @@
 <p align="center"> <a href="https://twitter.com/kendinepreneur" target="blank"><img src="https://img.shields.io/twitter/follow/kendinepreneur?logo=twitter&style=for-the-badge" alt="kendinepreneur" /></a> </p>
 
 
-- 🔭 I’m currently working on **project management**
-- 🌱 I’m currently learning **Neo4j**
-- 👯 I’m looking to collaborate on the **React, NodeJS, MongoDB, Tailwind**
+- 🔭 I’m currently working on **ENERJISA**
+- 🌱 I’m currently learning **React Next.js**
+- 👯 I’m looking to collaborate on the **React, NodeJS, Postgres, Tailwind**
 - 💬 Ask me about **Start-ups and team management**
 - 📫 How to reach me: <a href="mailto:korayvatan01@gmail.com">Mail me!</a>
 
