@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://twitter.com/kendinepreneur" target="blank"><img src="https://img.shields.io/twitter/follow/kendinepreneur?logo=twitter&style=for-the-badge" alt="kendinepreneur" /></a> </p>
 
 
-- 🔭 I’m currently working at **ENERJISA**
+- 🔭 I’m currently working at **TURKCELL**
 - 🌱 I’m currently learning **React Next.js**
 - 👯 I’m looking to collaborate on the **React, NodeJS, Postgres, Tailwind**
 - 💬 Ask me about **Start-ups and team management**
