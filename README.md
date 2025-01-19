@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Backend Development**
 - 🌱 I’m currently learning **Go**
-- 👯 I’m looking to collaborate on the **TypeScript, Pyton, Go**
+- 👯 I’m looking to collaborate on the **TypeScript, Python, Go**
 - 💬 Ask me about **Start-ups and team management**
 - 📫 How to reach me: <a href="mailto:korayvatan01@gmail.com">Mail me!</a>
 <br/>
