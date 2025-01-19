@@ -1,7 +1,7 @@
 <h1 align="center"> ✈️ Hi, Koray on board!👋</h1>
-<h3 align=center> Dedicated project manager from Mersin</h3>
+<h3 align=center> Dedicated backend developer from Mersin</h3>
 <div align="center"> 
-    <img src="https://github.com/korayv/korayv/blob/main/images/giphy.gif?raw=true" alt="Sponge-bob task book">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB3aWNueTg5dnQwMHRpczEwaGNwaWlkbzlncm4ybWc0ZDllOGxsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" alt="matrix">
 </div>
 <br/>
 
@@ -10,9 +10,9 @@
 <p align="center"> <a href="https://twitter.com/kendinepreneur" target="blank"><img src="https://img.shields.io/twitter/follow/kendinepreneur?logo=twitter&style=for-the-badge" alt="kendinepreneur" /></a> </p>
 
 
-- 🔭 I’m currently working on **project management**
-- 🌱 I’m currently learning **Neo4j**
-- 👯 I’m looking to collaborate on the **React, NodeJS, MongoDB, Tailwind**
+- 🔭 I’m currently working on **Backend Development**
+- 🌱 I’m currently learning **Go**
+- 👯 I’m looking to collaborate on the **TypeScript, Pyton, Go**
 - 💬 Ask me about **Start-ups and team management**
 - 📫 How to reach me: <a href="mailto:korayvatan01@gmail.com">Mail me!</a>
 
@@ -33,8 +33,8 @@
 <h2 align="center">Languages and tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,php,tailwind,git,gcp,figma,webflow,wordpress" />
-    <img src="https://skillicons.dev/icons?i=java,dart,nodejs,javascript,typescript,mysql, postgres,dotnet,mongodb,c#,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,php,tailwind,git,gcp,figma" />
+    <img src="https://skillicons.dev/icons?i=java,dart,nodejs,javascript,typescript,mysql,python,postgres,dotnet,mongodb,c#,nextjs" /><br>
 </div>
 <br/> <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=korayv&show_icons=true&locale=en&layout=compact" alt="korayv" /></p>
