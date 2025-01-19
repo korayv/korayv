@@ -1,5 +1,9 @@
 <h1 align="center"> ✈️ Hi, Koray on board!👋</h1>
+<<<<<<< HEAD
 <h3 align=center> Dedicated backend developer from Mersin</h3>
+=======
+<h3 align=center> Dedicated product manager from Mersin</h3>
+>>>>>>> cf6045d7aa0d350a89b5deb10867e77c441efd93
 <div align="center"> 
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB3aWNueTg5dnQwMHRpczEwaGNwaWlkbzlncm4ybWc0ZDllOGxsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" alt="matrix">
 </div>
@@ -10,9 +14,15 @@
 <p align="center"> <a href="https://twitter.com/kendinepreneur" target="blank"><img src="https://img.shields.io/twitter/follow/kendinepreneur?logo=twitter&style=for-the-badge" alt="kendinepreneur" /></a> </p>
 
 
+<<<<<<< HEAD
 - 🔭 I’m currently working on **Backend Development**
 - 🌱 I’m currently learning **Go**
 - 👯 I’m looking to collaborate on the **TypeScript, Pyton, Go**
+=======
+- 🔭 I’m currently working at **TURKCELL**
+- 🌱 I’m currently learning **React Next.js**
+- 👯 I’m looking to collaborate on the **React, NodeJS, Postgres, Tailwind**
+>>>>>>> cf6045d7aa0d350a89b5deb10867e77c441efd93
 - 💬 Ask me about **Start-ups and team management**
 - 📫 How to reach me: <a href="mailto:korayvatan01@gmail.com">Mail me!</a>
 
