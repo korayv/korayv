@@ -1,9 +1,5 @@
 <h1 align="center"> ✈️ Hi, Koray on board!👋</h1>
 <h3 align=center> Dedicated product manager from Mersin</h3>
-<div align="center"> 
-    <img src="https://github.com/korayv/korayv/blob/main/images/giphy.gif?raw=true" alt="Sponge-bob task book">
-</div>
-<br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=korayv&label=Profile%20views&color=0e75b6&style=flat" alt="korayv" /> </p>
 <p align="center">
