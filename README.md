@@ -1,7 +1,5 @@
 <h1 align="center"> ✈️ Hi, Koray on board!👋</h1>
 <h3 align=center> Dedicated product manager from Mersin</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=korayv&label=Profile%20views&color=0e75b6&style=flat" alt="korayv" /> </p>
 <p align="center">
   <a href="https://x.com/solo_girisim" target="blank">
     <img src="https://img.shields.io/badge/follow-%40solo__girisim-000000?logo=x&style=for-the-badge" alt="solo_girisim" />
@@ -16,29 +14,20 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCJ9x2937YCW1VhYZCVb-_iQ?label=Subscribers&style=for-the-badge&logo=youtube&color=red" alt="solo_girisim subscribers" />
   </a>
 </p>
-
-
-
-- 🔭 I’m currently working on **product management**
-- 🌱 I’m currently learning **Go**
-- 👯 I’m looking to collaborate on the **React, TypeScript, Python, Go**
-- 💬 Ask me about **Start-ups and team management**
-- 📫 How to reach me: <a href="mailto:korayvatan01@gmail.com">Mail me!</a>
-
-<br/>
+html<br/>
 <div align="center"> 
-  <a  target="_blank" href="mailto:korayvatan01@gmail.com">
+  <a target="_blank" href="mailto:korayvatan01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a target="_blank" href="https://linkedin.com/in/korayv">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=bwhitelue" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a target="_blank" href="https://korayvatan.com">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a> 
 </div>
 <br>
+
 <h2 align="center">Languages and tools</h2>
 <br/>
 <br/>
