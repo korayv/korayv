@@ -15,7 +15,12 @@
   <a href="https://youtube.com/solo_girisim" target="blank">
     <img src="https://img.shields.io/badge/YouTube-Check%20my%20channel-red?logo=youtube&style=for-the-badge" alt="solo_girisim" />
   </a>
+  &nbsp;
+  <a href="https://youtube.com/solo_girisim" target="blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCJ9x2937YCW1VhYZCVb-_iQ?label=Subscribers&style=for-the-badge&logo=youtube&color=red" alt="solo_girisim subscribers" />
+  </a>
 </p>
+
 
 
 - 🔭 I’m currently working on **product management**
