@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://youtube.com/qsolo_girisim" target="blank">
+  <a href="https://youtube.com/@solo_girisim" target="blank">
     <img src="https://img.shields.io/badge/YouTube-Check%20my%20channel-red?logo=youtube&style=for-the-badge" alt="solo_girisim" />
   </a>
   &nbsp;
