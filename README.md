@@ -7,15 +7,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=korayv&label=Profile%20views&color=0e75b6&style=flat" alt="korayv" /> </p>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=korayv&theme=dark_lover">
-    <img src="https://github-profile-trophy.vercel.app/?username=korayv&theme=dark_lover" alt="korayv" />
-  </a>
-</p><p align="center"> <a href="https://x.com/solo_girisim" target="blank"><img src="https://img.shields.io/twitter/follow/solo_girisim?logo=twitter&style=for-the-badge" alt="solo_girisim" /></a> </p>
-<p align="center">
-  <a href="https://youtube.com/solo_girisim" target="blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCJ9x2937YCW1VhYZCVb-_iQ" alt="solo_girisim" />
+  <a href="https://x.com/solo_girisim" target="blank">
+    <img src="https://img.shields.io/badge/follow-%40solo__girisim-000000?logo=x&style=for-the-badge" alt="solo_girisim" />
   </a>
 </p>
+<p align="center">
+  <a href="https://youtube.com/solo_girisim" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-Check%20my%20channel-red?logo=youtube&style=for-the-badge" alt="solo_girisim" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **product management**
 - 🌱 I’m currently learning **Go**
